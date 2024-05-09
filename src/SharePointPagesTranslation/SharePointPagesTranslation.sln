@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointPagesTranslation", "SharePointPagesTranslation\SharePointPagesTranslation.csproj", "{43D85EBD-B45C-4A69-9E62-40DD52B49999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D85EBD-B45C-4A69-9E62-40DD52B49999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D85EBD-B45C-4A69-9E62-40DD52B49999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D85EBD-B45C-4A69-9E62-40DD52B49999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D85EBD-B45C-4A69-9E62-40DD52B49999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224EB388-DB5A-4B94-AB96-0E4ACD8C2869}
+	EndGlobalSection
+EndGlobal

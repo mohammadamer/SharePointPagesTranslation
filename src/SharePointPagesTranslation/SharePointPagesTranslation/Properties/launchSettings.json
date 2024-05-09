@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SharePointPagesTranslation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7269",
+      "launchBrowser": false
+    }
+  }
+}
