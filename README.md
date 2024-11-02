@@ -1,7 +1,9 @@
 # SharePointPagesTranslation
-Streamline the translation of SharePoint Pages by leveraging SharePoint Webhooks, Azure Functions, and Azure Translator Service for automation.
+SharePointPagesTranslation is an Azure Function app that streamlines the translation of SharePoint Pages by leveraging SharePoint Webhooks, Azure Functions, and Azure Translator Service for automation.
 
-![Automate SharePoint Pages Translation demo](./src/SharePointPagesTranslation/assets/AutomateSharePointPagesTranslation.mp4)
+
+https://github.com/user-attachments/assets/1d6f8bb7-5572-460e-a6cf-c24062b36950
+
 
 # Overview
 In today's global landscape, the availability of multilingual content on SharePoint is increasingly important for effective communication. This solution offers a straightforward integration of SharePoint Webhooks with Azure Functions and Azure Translator Service to facilitate this.
