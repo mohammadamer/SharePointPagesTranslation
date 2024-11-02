@@ -4,7 +4,6 @@ using SharePointPagesTranslation.Models;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
-using Microsoft.VisualBasic;
 
 namespace SharePointPagesTranslation.Functions
 {
